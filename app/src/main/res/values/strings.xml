@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista Compras Evalacion2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_agregar">AgregarActivity</string>
+    <string name="add_item_button">Agregar</string>
+    <string name="add_item_textField">Producto</string>
+    <string name="main_text_msg">Lista vacia</string>
+</resources>

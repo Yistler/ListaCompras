@@ -56,13 +56,13 @@ Para ejecutar la aplicación, selecciona un emulador o conecta un dispositivo f�
 ## Capturas de Pantalla
 
 ### Pantalla Principal:
-![](./imagen/emptyList)
+<img src="./imagen/emptyList.jpg" width="250" />
 
 ### Agregar Producto:
-![](./imagen/addProduct)
+<img src="./imagen/addProduct.jpg" width="250" />
 
 ### Lista de productos agregados
-![](./imagen/list)
+<img src="./imagen/list.jpg" width="250" />
 
 
 ## Tecnologías Usadas
